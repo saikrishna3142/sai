@@ -11,7 +11,7 @@ public class Global {
 	String txt_un="admin";
 	String txt_pas="admin";
 	String fn="sai";
-	String ln="krishnaa";
+	String ln="krish";
 	String fn1="ssss";
 	String ln1="teja";
 
