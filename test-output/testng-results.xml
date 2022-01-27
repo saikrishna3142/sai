@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[Added employee]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[Employee edited]]>
+    </line>
+    <line>
+      <![CDATA[logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82370" started-at="2022-01-27T14:37:40Z" finished-at="2022-01-27T14:39:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82370" started-at="2022-01-27T14:37:40Z" finished-at="2022-01-27T14:39:02Z">
+      <class name="com.hrms.scripts.Tc_003">
+        <test-method status="PASS" signature="tc003()[pri:0, instance:com.hrms.scripts.Tc_003@29ba4338]" name="tc003" duration-ms="27920" started-at="2022-01-27T20:08:34Z" finished-at="2022-01-27T20:09:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[Employee edited]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+      </class> <!-- com.hrms.scripts.Tc_003 -->
+      <class name="com.hrms.scripts.Tc_002">
+        <test-method status="PASS" signature="tc002()[pri:0, instance:com.hrms.scripts.Tc_002@4c40b76e]" name="tc002" duration-ms="30911" started-at="2022-01-27T20:08:03Z" finished-at="2022-01-27T20:08:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[Added employee]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.scripts.Tc_002 -->
+      <class name="com.hrms.scripts.TC_001">
+        <test-method status="PASS" signature="tc001()[pri:0, instance:com.hrms.scripts.TC_001@2d2e5f00]" name="tc001" duration-ms="23539" started-at="2022-01-27T20:07:40Z" finished-at="2022-01-27T20:08:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[logout completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.hrms.scripts.TC_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
